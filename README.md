@@ -14,7 +14,7 @@ To design and deploy a dynamic and insightful Power BI dashboard that visualizes
 - Interactive buttons (or page tabs) allow smooth transition to other sections.
 
 ### 2. Overview Page
-- Key KPIs (Cards):
+- #### Key KPIs (Cards):
 
   - 📦 Total Sales: ₹987M
 
@@ -24,19 +24,19 @@ To design and deploy a dynamic and insightful Power BI dashboard that visualizes
 
   - 🌟 Total Ratings: 148K
 
--Category-Wise Distribution:
+- #### Category-Wise Distribution:
 
-Comparison between Veg, Non-Veg, and Others.
+  - Comparison between Veg, Non-Veg, and Others.
 
-Pie charts or bar graphs used for quick interpretation.
+  - Pie charts or bar graphs used for quick interpretation.
 
-Year-on-Year Sales Trends:
+- #### Year-on-Year Sales Trends:
 
-Visual representation from 2017 to 2020.
+  - Visual representation from 2017 to 2020.
 
-Sharp growth from 2017 to 2018, indicating strong adoption.
+  - Sharp growth from 2017 to 2018, indicating strong adoption.
 
-Slight dip or plateau in later years possibly due to external factors (e.g., pandemic, market saturation).
+  - Slight dip or plateau in later years possibly due to external factors (e.g., pandemic, market saturation).
 
 Top Performing Cities:
 
