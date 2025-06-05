@@ -55,35 +55,35 @@ To design and deploy a dynamic and insightful Power BI dashboard that visualizes
 
 - ➖ Churned Users (Lost): 33,000
 
-Demographic Breakdown:
+#### Demographic Breakdown:
 
-Gender distribution (Male vs Female users).
+- Gender distribution (Male vs Female users).
 
-Age segmentation to identify user behavior by age groups.
+- Age segmentation to identify user behavior by age groups.
 
-User Retention Insights:
+#### User Retention Insights:
 
-Helps identify critical patterns in user churn and acquisition.
+- Helps identify critical patterns in user churn and acquisition.
 
-Supports product/marketing teams in developing retention strategies.
+- Supports product/marketing teams in developing retention strategies.
+#
+### 4. City-Level Analysis
+#### City-Wise KPIs:
 
-4. City-Level Analysis
-City-Wise KPIs:
+- Total Sales, Orders, Active Users, and Ratings — broken down by city.
 
-Total Sales, Orders, Active Users, and Ratings — broken down by city.
+- Comparison to average benchmarks for spotting underperforming regions.
 
-Comparison to average benchmarks for spotting underperforming regions.
+#### Geospatial Visualization (optional):
 
-Geospatial Visualization (optional):
+- Use of map visual for regional trend spotting (if implemented).
 
-Use of map visual for regional trend spotting (if implemented).
+#### Rating Distribution:
 
-Rating Distribution:
-
-Identify cities with high customer satisfaction vs those needing improvement.
-
-⚙️ Tech Stack and Functional Skills
-Tools:
+- Identify cities with high customer satisfaction vs those needing improvement.
+#
+## ⚙️ Tech Stack and Functional Skills
+### Tools:
 
 Power BI Desktop
 
