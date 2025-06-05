@@ -1,8 +1,8 @@
 ![Screenshot (439)](https://github.com/user-attachments/assets/d16181cd-bf78-499a-9ffb-cc18e69dbb18)
 
-#🔥Zomato Sales & User Analytics Dashboard 
+#**🔥Zomato Sales & User Analytics Dashboard** 
 
-📌## Objective
+📌## **Objective**
 To design and deploy a dynamic and insightful Power BI dashboard that visualizes Zomato’s multi-year performance across sales, user metrics, and geographic penetration, helping stakeholders make data-driven business decisions.
 
 🧩## Dashboard Structure & Pages
