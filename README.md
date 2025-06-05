@@ -7,11 +7,11 @@ To design and deploy a dynamic and insightful Power BI dashboard that visualizes
 ## **Dashboard Structure & Pages**
 
 ### 1. Index Page (Landing View)
-Professionally designed with Zomato’s branding elements.
+- Professionally designed with Zomato’s branding elements.
 
-Features a clean, minimal aesthetic that sets the tone for navigation.
+- Features a clean, minimal aesthetic that sets the tone for navigation.
 
-Interactive buttons (or page tabs) allow smooth transition to other sections.
+-Interactive buttons (or page tabs) allow smooth transition to other sections.
 
 2. Overview Page
 Key KPIs (Cards):
