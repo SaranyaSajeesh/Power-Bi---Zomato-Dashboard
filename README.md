@@ -85,32 +85,32 @@ To design and deploy a dynamic and insightful Power BI dashboard that visualizes
 ## ⚙️ Tech Stack and Functional Skills
 ### Tools:
 
-Power BI Desktop
+- Power BI Desktop
 
-Excel (data cleaning/preprocessing if applicable)
+- Excel (data cleaning/preprocessing if applicable)
 
-Features Used:
+### Features Used:
 
-DAX for custom metrics
+- DAX for custom metrics
 
-Filters, slicers, bookmarks
+- Filters, slicers, bookmarks
 
-Drill-down and tooltip interactivity
+- Drill-down and tooltip interactivity
 
-Conditional formatting and KPI indicators
+- Conditional formatting and KPI indicators
 
-Design Choices:
+### Design Choices:
 
-Minimal color palette matching Zomato branding
+- Minimal color palette matching Zomato branding
 
-Strong visual hierarchy with dashboards optimized for storytelling
+- Strong visual hierarchy with dashboards optimized for storytelling
 
-Responsive layout for easy navigation and comprehension
+- Responsive layout for easy navigation and comprehension
+#
+## 🎯 Impact / Business Value
+- Helps Zomato understand user engagement and sales effectiveness across cities and years.
 
-🎯 Impact / Business Value
-Helps Zomato understand user engagement and sales effectiveness across cities and years.
+- Assists leadership in optimizing marketing strategies and resource allocation.
 
-Assists leadership in optimizing marketing strategies and resource allocation.
-
-Supports operational teams to identify low-performing cities or user churn drivers.
+- Supports operational teams to identify low-performing cities or user churn drivers.
 
