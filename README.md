@@ -16,15 +16,15 @@ To design and deploy a dynamic and insightful Power BI dashboard that visualizes
 ### 2. Overview Page
 - Key KPIs (Cards):
 
- - 📦 Total Sales: ₹987M
+  - 📦 Total Sales: ₹987M
 
- - 🛒 Orders: 150K
+  - 🛒 Orders: 150K
 
- - 🔢 Quantity Sold: 2M+
+  - 🔢 Quantity Sold: 2M+
 
- - 🌟 Total Ratings: 148K
+  - 🌟 Total Ratings: 148K
 
-Category-Wise Distribution:
+-Category-Wise Distribution:
 
 Comparison between Veg, Non-Veg, and Others.
 
