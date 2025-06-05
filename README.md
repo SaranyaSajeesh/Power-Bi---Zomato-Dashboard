@@ -12,7 +12,7 @@ To design and deploy a dynamic and insightful Power BI dashboard that visualizes
 - Features a clean, minimal aesthetic that sets the tone for navigation.
 
 - Interactive buttons (or page tabs) allow smooth transition to other sections.
-
+#
 ### 2. Overview Page
 - #### Key KPIs (Cards):
 
@@ -38,22 +38,22 @@ To design and deploy a dynamic and insightful Power BI dashboard that visualizes
 
   - Slight dip or plateau in later years possibly due to external factors (e.g., pandemic, market saturation).
 
-Top Performing Cities:
+- #### Top Performing Cities:
 
-Identifies cities with highest contribution in revenue and orders:
+  - Identifies cities with highest contribution in revenue and orders:
 
-Tirupati, Baner Pune, Electronic City, etc.
+  - Tirupati, Baner Pune, Electronic City, etc.
 
-Bar charts and map visuals highlight city-wise performance.
+  - Bar charts and map visuals highlight city-wise performance.
+#
+### 3. User Performance Page
+#### User Metrics:
 
-3. User Performance Page
-User Metrics:
+- 👥 Total Users: 78,000
 
-👥 Total Users: 78,000
+- ➕ New Users (Gained): 12,000
 
-➕ New Users (Gained): 12,000
-
-➖ Churned Users (Lost): 33,000
+- ➖ Churned Users (Lost): 33,000
 
 Demographic Breakdown:
 
