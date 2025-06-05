@@ -1,10 +1,10 @@
 # **Zomato Sales & User Analytics Dashboard** 
 ![Screenshot (439)](https://github.com/user-attachments/assets/d16181cd-bf78-499a-9ffb-cc18e69dbb18)
 
-## **Objective**
+## 📌**Objective**
 To design and deploy a dynamic and insightful Power BI dashboard that visualizes Zomato’s multi-year performance across sales, user metrics, and geographic penetration, helping stakeholders make data-driven business decisions.
 
-## **Dashboard Structure & Pages**
+## 🧩**Dashboard Structure & Pages**
 
 ### 1. Index Page (Landing View)
 - Professionally designed with Zomato’s branding elements.
@@ -28,7 +28,7 @@ To design and deploy a dynamic and insightful Power BI dashboard that visualizes
 
   - Comparison between Veg, Non-Veg, and Others.
 
-  - Pie charts or bar graphs used for quick interpretation.
+  - Bar graphs used for quick interpretation.
 
 - #### Year-on-Year Sales Trends:
 
@@ -44,7 +44,7 @@ To design and deploy a dynamic and insightful Power BI dashboard that visualizes
 
   - Tirupati, Baner Pune, Electronic City, etc.
 
-  - Bar charts and map visuals highlight city-wise performance.
+  - Bar charts and Table visuals highlight city-wise performance.
 #
 ### 3. User Performance Page
 #### User Metrics:
@@ -74,10 +74,6 @@ To design and deploy a dynamic and insightful Power BI dashboard that visualizes
 
 - Comparison to average benchmarks for spotting underperforming regions.
 
-#### Geospatial Visualization (optional):
-
-- Use of map visual for regional trend spotting (if implemented).
-
 #### Rating Distribution:
 
 - Identify cities with high customer satisfaction vs those needing improvement.
@@ -86,8 +82,8 @@ To design and deploy a dynamic and insightful Power BI dashboard that visualizes
 ### Tools:
 
 - Power BI Desktop
-
-- Excel (data cleaning/preprocessing if applicable)
+- Power Query Editor(Data cleaning & transformation)
+- Zomato Datasets(Cleaned for optimal performance)
 
 ### Features Used:
 
