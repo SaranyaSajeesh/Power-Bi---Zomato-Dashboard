@@ -11,18 +11,18 @@ To design and deploy a dynamic and insightful Power BI dashboard that visualizes
 
 - Features a clean, minimal aesthetic that sets the tone for navigation.
 
--Interactive buttons (or page tabs) allow smooth transition to other sections.
+- Interactive buttons (or page tabs) allow smooth transition to other sections.
 
-2. Overview Page
-Key KPIs (Cards):
+### 2. Overview Page
+- Key KPIs (Cards):
 
-📦 Total Sales: ₹987M
+-- 📦 Total Sales: ₹987M
 
-🛒 Orders: 150K
+-- 🛒 Orders: 150K
 
-🔢 Quantity Sold: 2M+
+-- 🔢 Quantity Sold: 2M+
 
-🌟 Total Ratings: 148K
+-- 🌟 Total Ratings: 148K
 
 Category-Wise Distribution:
 
